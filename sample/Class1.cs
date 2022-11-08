@@ -11,7 +11,7 @@ namespace sample
         public List<int> getlist()
         {
             //SubList ob = new SubList();
-            Console.WriteLine("Enter the size of listed");
+            Console.WriteLine("Enter the size of list1");
             int size1 = int.Parse(Console.ReadLine());
 
             //int[] a = new int[size1];
