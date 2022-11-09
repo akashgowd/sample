@@ -10,6 +10,7 @@ namespace sample
     {
         public void employee()
         {
+            int id = 1;
             return;
 
         }
